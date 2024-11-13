@@ -1,7 +1,7 @@
 mengenai bagian 1 yaitu COMPILING TYPESCRIPT
 
 -- SEBELUM MEMULAI TS --
-buka cmd pada vscode kemudian ketik tcs namaFile.ts 
+buka cmd pada vscode kemudian ketik tsc namaFile.ts 
 Pastikan sebelum panggil ts, perhatikan direction atau tempat file berada
 jika mengalami error seperti ini = tsc-ps1-cannot-be-loaded-because-running-scripts-is-disabled-on-this-system
 Hal yang dilakukan => 
