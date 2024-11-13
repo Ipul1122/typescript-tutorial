@@ -1,0 +1,7 @@
+ts adalah alternatif dari Bahasa pemrogramman javascript dimana lebih powerfull, extra fitur baru.
+
+things ts can do then js
+- Alternatif dari javascript ( superset )
+- Memungkinkan kita bisa memakai tipe yang ketat
+- mendukung fitur modern ( contoh : arrow function, let, const )
+- fitur tambahan ( generics, intefaces, tuples dll ) 
