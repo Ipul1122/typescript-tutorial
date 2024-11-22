@@ -1,8 +1,4 @@
-mengenai bagian 7 yaitu workflow & tsconfig
-
-
--- STUDI KASUS --
-workflow & tsconfig
+mengenai bagian 7 yaitu TYPE ALIASES
 
 cara struktur file dengan rapih 
 1. buat folder baru folder
@@ -42,4 +38,4 @@ Type ALIASES berguna untuk
 
 
 -- REFERENSI -- 
-YOUTUBE : https://www.youtube.com/watch?v=jXoSaX_yFh4&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&index=8
+YOUTUBE : https://youtu.be/AmpwfbdFYL8?si=yvI7ZehwtaN_50gV
