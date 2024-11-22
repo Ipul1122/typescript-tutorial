@@ -1,8 +1,4 @@
-mengenai bagian 7 yaitu workflow & tsconfig
-
-
--- STUDI KASUS --
-workflow & tsconfig
+mengenai bagian 9 yaitu Function Signature
 
 cara struktur file dengan rapih 
 1. buat folder baru folder
