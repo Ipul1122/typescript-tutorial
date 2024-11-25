@@ -24,7 +24,7 @@ cara struktur file dengan rapih
 8. ketika kalian ingin membuat file ts diluar folder public, src dan tidak mengikuti ke folder public dan src
 8.1 buka tsconfig, scroll ke paling bawah
 8.2 pada bagian tutup kurawal } }
-8.3 tambahkan }, "include": ["src"] }
+8.3 tambahkan }, "include": ["src", "public/script.js"] }
 8.4 mengarahkan tsconfig untuk mengambil file ts dari folder src saja
 8.5 jika membuat file diluar folder public dan src tidak mengarahkan ke folder public atau lainnya. hanya bagian tertentu
 
