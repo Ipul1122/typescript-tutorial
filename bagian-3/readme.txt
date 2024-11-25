@@ -1,4 +1,4 @@
-mengenai bagian 1 yaitu COMPILING TYPESCRIPT
+mengenai bagian 1 yaitu ARRAY & OBJECT
 
 -- SEBELUM MEMULAI TS --
 buka cmd pada vscode kemudian ketik tsc namaFile.ts 
