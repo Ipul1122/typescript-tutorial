@@ -22,4 +22,4 @@ Menggunakan Object di TYPESCRIPT
 cara replace properti dari object dan tidak bisa mengubah, menambah data jika properti tidak sama atau tidak ada data
 
 -- REFERENSI -- 
-YOUTUBE : https://www.youtube.com/watch?v=iTZ1-85I77c&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&index=2
+YOUTUBE : https://youtu.be/157NopQ-chU?si=JtdGGLy2cj-M1kOT
