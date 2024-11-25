@@ -1,4 +1,4 @@
-mengenai bagian 1 yaitu COMPILING TYPESCRIPT
+mengenai bagian 1 yaitu EXPLICIT TYPES & UNION TYPES
 
 -- SEBELUM MEMULAI TS --
 buka cmd pada vscode kemudian ketik tsc namaFile.ts 
